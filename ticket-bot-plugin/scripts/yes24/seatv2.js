@@ -3,7 +3,7 @@ let seatSelect = []; // 没用 todo:增加自定义选座
 let blockSelect = [301,302,303,306,307,308,311,312,313,316,317,318,101,102,103,104,105,106]; // 自定义选区
 let SEAT_MAX_CLICK_COUNT = 30; // 单个座位最大点击次数
 let WEBHOOK_URL = ''; // 飞书webhook url
-let USERID = ''; // 用户id 抓包自己看
+let USERID = 'N20250709222449ec4'; // 用户id 抓包自己看
 let MAX_SEAT_ID = 300; // 站票区刷到ID最大值，超过的票不锁  不需要筛ID请填9999
 let REFRESH_INTERVAL = 500; // 刷新时间间隔 根据网络调整
 
